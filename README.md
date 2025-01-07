@@ -29,15 +29,19 @@ Provides instant, round-the-clock support for health-related concerns.
 Reproductive Health
 Education on menstrual cycles, contraception, fertility, and menopause.
 Guidance on pregnancy planning and postnatal care.
+
 Menstrual Care
 Remedies for PMS symptoms and irregular cycles.
 Tips for maintaining proper menstrual hygiene.
+
 Maternal Health
 Trimester-specific pregnancy tips and postnatal care advice.
 Breastfeeding support and maternal wellness resources.
+
 Mental Health
 Strategies for managing postpartum depression, anxiety, and stress.
 Self-care resources and tools for mental well-being.
+
 General Health
 Tips on nutrition, fitness, and managing hormonal imbalances.
 Education on common conditions such as PCOS, endometriosis, and UTIs.
