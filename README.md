@@ -21,10 +21,7 @@ Guides users on when to consult healthcare professionals or seek emergency care.
 4. Awareness & Education
 Shares verified health information, debunks myths, and promotes preventative measures.
 
-5. Language Accessibility
-Supports multiple languages to serve women from diverse communities.
-
-6. 24/7 Availability
+5. 24/7 Availability
 Provides instant, round-the-clock support for health-related concerns.
 
 # What We Offer
@@ -63,10 +60,7 @@ Explore Additional Resources
 Browse verified educational content for further learning.
 
 # Technology Stack
-Frontend: HTML, CSS, JavaScript
-Backend: [Specify backend technology, e.g., Node.js, Python, etc.]
-Database: [Specify database, e.g., MongoDB, MySQL, etc.]
-AI Integration: [Specify AI/ML technologies used, e.g., Dialogflow, OpenAI, etc.]
+HTML, CSS, JavaScript, React.js
 
 # Contributions
 Contributions are welcome! If you want to contribute, follow these steps:
@@ -77,11 +71,8 @@ Commit your changes.
 Push to the branch.
 Submit a pull request.
 
-# License
-This project is licensed under the [Specify License Name]. See the LICENSE file for more information.
-
 # Contact Us
 For inquiries, feedback, or support, please reach out at:
 
-Email: [Your email address]
-Website: [Your website URL]
+Email: 186sndy@gmail.com
+
