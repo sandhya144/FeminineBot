@@ -1,6 +1,5 @@
-# FeminineBot
+# FeminineBot (Women’s Health Chatbot)
 
-# Women’s Health Chatbot
 Empowering Women’s Wellness
 
 Welcome to the Women’s Health Chatbot, your intelligent digital health companion designed to empower women on their wellness journey.
