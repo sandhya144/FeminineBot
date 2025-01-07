@@ -1,13 +1,13 @@
 # FeminineBot (Women’s Health Chatbot)
 
-Empowering Women’s Wellness
+Empowering Women’s Wellness!
 
-Welcome to the Women’s Health Chatbot, your intelligent digital health companion designed to empower women on their wellness journey.
+Welcome! to the Women’s Health Chatbot, your intelligent digital health companion designed to empower women on their wellness journey.
 
 # About the Chatbot
-The Women’s Health Chatbot is a safe, supportive, and reliable platform that provides accurate health information and personalized guidance anytime, anywhere. 
+• The Women’s Health Chatbot is a safe, supportive, and reliable platform that provides accurate health information and personalized guidance anytime, anywhere. 
 
-It is designed to address the unique health needs of women across various stages of life, offering accessible and educational resources to improve overall health and quality of life.
+• It is designed to address the unique health needs of women across various stages of life, offering accessible and educational resources to improve overall health and quality of life.
 
 # Key Features
 
@@ -31,53 +31,53 @@ Provides instant, round-the-clock support for health-related concerns.
 
 Reproductive Health-
 
-Education on menstrual cycles, contraception, fertility, and menopause.
+• Education on menstrual cycles, contraception, fertility, and menopause.
 
-Guidance on pregnancy planning and postnatal care.
+• Guidance on pregnancy planning and postnatal care.
 
 Menstrual Care-
 
-Remedies for PMS symptoms and irregular cycles.
+• Remedies for PMS symptoms and irregular cycles.
 
-Tips for maintaining proper menstrual hygiene.
+• Tips for maintaining proper menstrual hygiene.
 
 Maternal Health-
 
-Trimester-specific pregnancy tips and postnatal care advice.
+• Trimester-specific pregnancy tips and postnatal care advice.
 
-Breastfeeding support and maternal wellness resources.
+• Breastfeeding support and maternal wellness resources.
 
 Mental Health-
 
-Strategies for managing postpartum depression, anxiety, and stress.
+• Strategies for managing postpartum depression, anxiety, and stress.
 
-Self-care resources and tools for mental well-being.
+• Self-care resources and tools for mental well-being.
 
 General Health-
 
-Tips on nutrition, fitness, and managing hormonal imbalances.
+• Tips on nutrition, fitness, and managing hormonal imbalances.
 
-Education on common conditions such as PCOS, endometriosis, and UTIs.
+• Education on common conditions such as PCOS, endometriosis, and UTIs.
 
 # Vision
 We aspire to redefine women’s healthcare by creating a trustworthy, intelligent, and empathetic digital assistant that empowers women globally, contributes to better health outcomes, and improves quality of life.
 
 # How to Use
-Access the Chatbot
+• Access the Chatbot
 
-Open the chatbot via its webpage or application.
+• Open the chatbot via its webpage or application.
 
-Interact with the Interface
+• Interact with the Interface
 
-Input your query or select a category of concern.
+• Input your query or select a category of concern.
 
-Receive Tailored Responses
+• Receive Tailored Responses
 
-Get personalized advice, symptom analysis, and healthcare recommendations instantly.
+• Get personalized advice, symptom analysis, and healthcare recommendations instantly.
 
-Explore Additional Resources
+• Explore Additional Resources
 
-Browse verified educational content for further learning.
+• Browse verified educational content for further learning.
 
 # Technology Stack
 HTML, CSS, JavaScript, React.js
@@ -85,15 +85,15 @@ HTML, CSS, JavaScript, React.js
 # Contributions
 Contributions are welcome! If you want to contribute, follow these steps:
 
-Fork this repository.
+• Fork this repository.
 
-Create a new branch (feature-name).
+• Create a new branch (feature-name).
 
-Commit your changes.
+• Commit your changes.
 
-Push to the branch.
+• Push to the branch.
 
-Submit a pull request.
+• Submit a pull request.
 
 # Contact Us
 For inquiries, feedback, or support, please reach out at:
